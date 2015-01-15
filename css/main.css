@@ -6,9 +6,6 @@
 	-ms-box-sizing: border-box;
 }*/
 
-body {
-	background-color: #202020;
-}
 
 .grid {
 	width: 960px;
@@ -67,6 +64,9 @@ body {
 	text-align: center;
 }
 
+body {
+	background-color: #202020;
+}
 h1 {
 	text-align: right;
 	padding-right: 35px;
